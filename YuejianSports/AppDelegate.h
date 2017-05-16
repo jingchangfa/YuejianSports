@@ -11,7 +11,13 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
+@property (strong, nonatomic) UITabBarController *tab;
+//首页界面
+@property (strong, nonatomic)UINavigationController *firstNav;
+//专家界面
+@property (strong, nonatomic)UINavigationController *expertNav;
+//我的界面
+@property (strong, nonatomic)UINavigationController *mineNav;
 
 @end
 
