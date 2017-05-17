@@ -6,8 +6,8 @@
 //  Copyright © 2017年 wang yan. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "BaseViewController.h"
 
-@interface mineViewController : UIViewController
+@interface mineViewController : BaseViewController
 
 @end

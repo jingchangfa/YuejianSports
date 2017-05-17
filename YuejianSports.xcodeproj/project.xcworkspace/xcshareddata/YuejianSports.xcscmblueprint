@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9b79a5ff-5d9c-42ce-9764-c41d40237f76++5373" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9b79a5ff-5d9c-42ce-9764-c41d40237f76++5373" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D1AB24C0-AAE2-48F1-812A-2125501C5767",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9b79a5ff-5d9c-42ce-9764-c41d40237f76++5373" : "YuejianSports\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YuejianSports",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YuejianSports.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/202.194.15.185\/topwellsoft",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9b79a5ff-5d9c-42ce-9764-c41d40237f76++5373"
+    }
+  ]
+}

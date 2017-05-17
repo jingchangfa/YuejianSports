@@ -29,15 +29,15 @@
         [_image mas_makeConstraints:^(MASConstraintMaker *make) {
             make.top.equalTo(self);
             make.left.mas_equalTo(self);
-            make.width.mas_equalTo(150);
-            make.height.mas_equalTo(150);
+            make.width.mas_equalTo(self.bounds.size.width);
+            make.height.mas_equalTo(self.bounds.size.height-30*SCALE);
         }];
         
         [_label mas_makeConstraints:^(MASConstraintMaker *make) {
             make.top.mas_equalTo(_image.mas_bottom);
             make.left.equalTo(_image);
             make.width.equalTo(_image);
-            make.height.mas_equalTo(30);
+            make.height.mas_equalTo(30*SCALE);
         }];
     }
     return self;
